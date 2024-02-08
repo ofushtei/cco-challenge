@@ -1,4 +1,4 @@
-<img src="https://github.com/ofushtei/cco-challenge-test/assets/46541097/3fa766bb-9fcc-4a1e-9db6-1fdcc00d7646" width="400">
+<img src="https://github.com/ofushtei/cco-challenge-test/assets/46541097/3fa766bb-9fcc-4a1e-9db6-1fdcc00d7646">
 
 Remember, before applying the file, please add the namespace you want to use to the *ClusterRoleBinding* object, specifically in *subjects*
 It should look like this:
