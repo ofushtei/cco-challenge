@@ -9,8 +9,7 @@ Quick rundown:
 Remember, before applying the file, please add the namespace you want to use to the *ClusterRoleBinding* object, specifically in *subjects*
 It should look like this:
 
-![image](https://github.com/ofushtei/cco-challenge-test/assets/46541097/092f094c-7ea1-4740-8548-898dd58a8495)
-<img src="https://github.com/ofushtei/cco-challenge-test/assets/46541097/092f094c-7ea1-4740-8548-898dd58a8495" width="200">
+<img src="https://github.com/ofushtei/cco-challenge-test/assets/46541097/092f094c-7ea1-4740-8548-898dd58a8495" width="400">
 
 
 For Konrad:
