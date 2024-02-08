@@ -2,7 +2,7 @@
 
 
 Quick rundown:
-- basic.yaml - do not use
+- basic.yaml - full deployment, but creates everything in the hardcoded namespace __DO NOT USE__
 - deploy-full.yaml - full deployment of all components
 - deploy-challenge-v1.yaml - deployment without Java instrumention
 
