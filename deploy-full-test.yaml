@@ -183,6 +183,7 @@ roleRef:
 subjects:
 - kind: ServiceAccount
   name: opentelemetry-demo-otelcol
+  namespace: ofushtei-cco-demo
 ---
 # Source: opentelemetry-demo/charts/opentelemetry-collector/templates/service.yaml
 apiVersion: v1
