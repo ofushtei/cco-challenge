@@ -11,5 +11,7 @@ It should look like this:
 
 <img src="https://github.com/ofushtei/cco-challenge-test/assets/46541097/092f094c-7ea1-4740-8548-898dd58a8495" width="400">
 
+Also, there is __NO__ version-control going on here, I cba 🤡 
+
 For Konrad:
 Use deploy-challenge-v1.yaml
