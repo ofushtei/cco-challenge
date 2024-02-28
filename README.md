@@ -13,4 +13,4 @@ It should look like this:
 Also, there is __NO__ version-control going on here, I cba 💅🏻
 
 For Konrad:
-Use deploy-challenge-v1.yaml
+Use __deploy-challenge-v1.yaml__
