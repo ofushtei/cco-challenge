@@ -2,8 +2,8 @@
 
 
 Quick rundown:
-- deploy-full.yaml - full deployment of all components
-- deploy-challenge-v1.yaml - deployment without Java instrumention
+- deploy-full.yaml - deployment with instrumentation of all components
+- deploy-challenge-v1.yaml - deployment without Java instrumentation
 
 Remember, before applying the file, please add the namespace you want to use to the __*ClusterRoleBinding*__ object, specifically in __*subjects*__
 It should look like this:
