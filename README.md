@@ -2,8 +2,8 @@
 
 
 Quick rundown:
-- deploy-full.yaml - deployment with instrumentation of all components
-- deploy-challenge-v1.yaml - deployment without Java instrumentation
+- deploy-full.yaml - full deployment with instrumentation of all components
+- deploy-challenge-v1.yaml - full deployment without Java instrumentation
 
 Challenge files:
 - challenge-cluster-prep.yaml - file with prep "tasks" for the main application, including your custom namespace and ClusterRoleBinding
