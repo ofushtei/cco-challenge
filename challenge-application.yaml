@@ -715,6 +715,16 @@ spec:
             value: "8080"
           - name: FEATURE_FLAG_GRPC_SERVICE_ADDR
             value: 'opentelemetry-demo-featureflagservice:50053'
+          - name: OTEL_SERVICE_NAME
+            valueFrom:
+              fieldRef:
+                apiVersion: v1
+                fieldPath: metadata.labels['app.kubernetes.io/component']
+          - name: OTEL_K8S_NAMESPACE
+            valueFrom:
+              fieldRef:
+                apiVersion: v1
+                fieldPath: metadata.namespace
           resources:
             limits:
               memory: 300Mi
